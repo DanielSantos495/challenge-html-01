@@ -7,6 +7,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js',
+    // publicPath: './',
   },
   resolve: {
     extensions: ['.js', '.jsx'],
@@ -37,6 +38,13 @@ module.exports = {
           'css-loader',
           'stylus-loader',
         ],
+      },
+      {
+        test: /\.png|ttf$/,
+        loader: 'file-loader',
+        options: {
+          outputPath: 'assets/',
+        },
       },
     ],
   },
