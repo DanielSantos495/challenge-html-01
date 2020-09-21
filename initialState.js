@@ -4,7 +4,7 @@ const State = [
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
     image:
-      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/dose-media-344938.png',
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/src/imgs/dose-media-344938.png',
     type: 'TECHNOLOGY',
     id: 1,
   },
@@ -14,7 +14,7 @@ const State = [
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
     image:
-      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/annie-spratt-213059.png',
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/src/imgs/annie-spratt-213059.png',
     type: 'TECHNOLOGY',
     id: 2,
   },
@@ -23,7 +23,7 @@ const State = [
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
     image:
-      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/jeff-sheldon-264920.png',
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/src/imgs/jeff-sheldon-264920.png',
     type: 'ENTERTAINMENT',
     id: 4,
   },
@@ -32,7 +32,7 @@ const State = [
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
     image:
-      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/aidan-hancock-455440.png',
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/src/imgs/aidan-hancock-455440.png',
     type: 'TECHNOLOGY',
     id: 5,
   },
@@ -41,7 +41,7 @@ const State = [
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
     image:
-      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/jeff-sheldon-264920.png',
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/src/imgs/jeff-sheldon-264920.png',
     type: 'ENTERTAINMENT',
     id: 7,
   },
@@ -50,7 +50,7 @@ const State = [
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
     image:
-      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/crew-22235.png',
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/src/imgs/crew-22235.png',
     type: 'FINANCE',
     id: 3,
   },
@@ -59,7 +59,7 @@ const State = [
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
     image:
-      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/crew-22235.png',
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/src/imgs/crew-22235.png',
     type: 'FINANCE',
     id: 8,
   },
@@ -68,7 +68,7 @@ const State = [
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
     image:
-      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/dose-media-344938.png',
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/src/imgs/dose-media-344938.png',
     type: 'TECHNOLOGY',
     id: 6,
   },
@@ -77,7 +77,7 @@ const State = [
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
     image:
-      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/aidan-hancock-455440.png',
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/src/imgs/aidan-hancock-455440.png',
     type: 'TECHNOLOGY',
     id: 9,
   },
