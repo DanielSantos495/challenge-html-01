@@ -1,11 +1,12 @@
 /*Header-----Header*/
 
 .Header {
-  width: 100%;
+  width: 95%;
   height: 100px;
   margin: 0 auto;
   display: flex;
   align-items: center;
+  justify-content: center
   border-bottom: 1px solid var(--HF-text-color);
 }
 .Header__nav {
@@ -33,3 +34,11 @@
     height: 30px;
   }
 }
+ @media (max-width: 800px) {
+  .Header__nav {
+    ul {
+      display: none;
+    }
+  }
+
+ }
