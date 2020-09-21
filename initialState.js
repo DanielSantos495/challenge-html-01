@@ -3,7 +3,8 @@ const State = [
     title: 'Using Banners Will Increase Trade Show Traffic',
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
-    image: './resources/imgs/dose-media-344938.png',
+    image:
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/dose-media-344938.png',
     type: 'TECHNOLOGY',
     id: 1,
   },
@@ -12,7 +13,8 @@ const State = [
       '6 Powerful Tips For Creating Testimonials That Sell Your Products Fast',
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
-    image: './resources/imgs/annie-spratt-213059.png',
+    image:
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/annie-spratt-213059.png',
     type: 'TECHNOLOGY',
     id: 2,
   },
@@ -20,7 +22,8 @@ const State = [
     title: '15 Tips To Increase Your Adwords Profits',
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
-    image: './resources/imgs/jeff-sheldon-264920.png',
+    image:
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/jeff-sheldon-264920.png',
     type: 'ENTERTAINMENT',
     id: 4,
   },
@@ -28,7 +31,8 @@ const State = [
     title: 'Search Engine Optimization And Advertising',
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
-    image: './resources/imgs/aidan-hancock-455440.png',
+    image:
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/aidan-hancock-455440.png',
     type: 'TECHNOLOGY',
     id: 5,
   },
@@ -36,7 +40,8 @@ const State = [
     title: '15 Tips To Increase Your Adwords Profits',
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
-    image: './resources/imgs/jeff-sheldon-264920.png',
+    image:
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/jeff-sheldon-264920.png',
     type: 'ENTERTAINMENT',
     id: 7,
   },
@@ -44,7 +49,8 @@ const State = [
     title: 'How to Write A Good Headline For Facebook Ads',
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
-    image: './resources/imgs/crew-22235.png',
+    image:
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/crew-22235.png',
     type: 'FINANCE',
     id: 3,
   },
@@ -52,7 +58,8 @@ const State = [
     title: 'How to Write A Good Headline For Facebook Ads',
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
-    image: './resources/imgs/crew-22235.png',
+    image:
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/crew-22235.png',
     type: 'FINANCE',
     id: 8,
   },
@@ -60,7 +67,8 @@ const State = [
     title: 'Using Banners Will Increase Trade Show Traffic',
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
-    image: './resources/imgs/dose-media-344938.png',
+    image:
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/dose-media-344938.png',
     type: 'TECHNOLOGY',
     id: 6,
   },
@@ -68,7 +76,8 @@ const State = [
     title: 'Search Engine Optimization And Advertising',
     description:
       'There is a lot exciting stuff going on in the stars above us that makes astronomy so much fun.',
-    image: './resources/imgs/aidan-hancock-455440.png',
+    image:
+      'https://raw.githubusercontent.com/DanielSantos495/challenge-html-01/master/resources/imgs/aidan-hancock-455440.png',
     type: 'TECHNOLOGY',
     id: 9,
   },

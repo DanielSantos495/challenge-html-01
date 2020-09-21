@@ -7,7 +7,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js',
-    publicPath: './',
+    // publicPath: './',
   },
   resolve: {
     extensions: ['.js', '.jsx'],
@@ -40,11 +40,15 @@ module.exports = {
         ],
       },
       {
-        test: /\.png|ttf$/,
-        loader: 'file-loader',
-        options: {
-          outputPath: 'assets/',
-        },
+        test: /\.png$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: 'assets/[hash].[ext]',
+            },
+          },
+        ],
       },
     ],
   },
